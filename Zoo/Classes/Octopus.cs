@@ -47,5 +47,10 @@ namespace Zoo.Classes
         {
             return "The octopus expands its tentacles and wraps on target. The target suffers from speed down!";
         }
+
+        public override string Swim()
+        {
+            return "The Octopus swims by propelling itself through the currents";
+        }
     }
 }
