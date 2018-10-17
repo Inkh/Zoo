@@ -21,11 +21,19 @@ namespace Zoo.Classes
             return "MEOW!!";
         }
 
+        /// <summary>
+        /// Describes a common cat behavior.
+        /// </summary>
+        /// <returns>Post scratch description</returns>
         public string ScratchHuman()
         {
             return "The cat scratches you. You now have bleeding gashes on your forearm.";
         }
 
+        /// <summary>
+        /// Overriden Run from parent class TerrestrialMammal.
+        /// </summary>
+        /// <returns>More descriptions on how Cats move</returns>
         public override string Run()
         {
             return base.Run() + " And it leaps super high too!";

@@ -12,16 +12,28 @@ namespace Zoo.Classes
         public override string Habitat { get; set; } = "Arctic Oceans";
         public override string Diet { get; set; } = "Squid and fish";
 
+        /// <summary>
+        /// Seals typically give birth to only one baby.
+        /// </summary>
+        /// <returns></returns>
         public override string GiveBirth()
         {
             return "One baby seal is born!";
         }
 
+        /// <summary>
+        /// Seals bark, did you know that?
+        /// </summary>
+        /// <returns></returns>
         public override string MakeSound()
         {
             return "Bark! BARK!!!";
         }
 
+        /// <summary>
+        /// Seals love to scratch their bellies
+        /// </summary>
+        /// <returns></returns>
         public string ScratchBelly()
         {
             return "The seal rolls on its back and scratches its itchy belly";
