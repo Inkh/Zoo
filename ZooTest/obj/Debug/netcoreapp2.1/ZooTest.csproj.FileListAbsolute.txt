@@ -1,0 +1,17 @@
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\ZooTest.deps.json
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\ZooTest.runtimeconfig.json
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\ZooTest.runtimeconfig.dev.json
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\ZooTest.dll
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\ZooTest.pdb
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\Jeff\source\repos\Zoo\ZooTest\bin\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.csproj.CopyComplete
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.dll
+C:\Users\Jeff\source\repos\Zoo\ZooTest\obj\Debug\netcoreapp2.1\ZooTest.pdb
