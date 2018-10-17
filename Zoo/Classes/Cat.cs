@@ -5,7 +5,7 @@ using Zoo.Interfaces;
 
 namespace Zoo.Classes
 {
-    class Cat : TerrestrialMammal, IDoTricks, ISwim
+    public class Cat : TerrestrialMammal, IDoTricks, ISwim
     {
         public override string SizeOfBaby { get; set; } = "18 inches long and 9lbs";
         public override bool BreatheOnLand { get; set; } = true;

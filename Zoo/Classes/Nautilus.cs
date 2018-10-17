@@ -5,7 +5,7 @@ using Zoo.Interfaces;
 
 namespace Zoo.Classes
 {
-    class Nautilus : Cephalopod
+    public class Nautilus : Cephalopod
     {
         public override int NumberOfTentacles { get; set; } = 90;
         public override string Habitat { get; set; } = "Tropical Indo-Pacific";
@@ -46,6 +46,11 @@ namespace Zoo.Classes
         public string BeAFossil()
         {
             return "It's not moving... Is it..- Oh, it's a fossil now.";
+        }
+
+        public override string Swim()
+        {
+            return "It floats along, ignoring you.";
         }
     }
 }

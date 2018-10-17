@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class Octopus : Cephalopod
+    public class Octopus : Cephalopod
     {
         public override int NumberOfTentacles { get; set; } = 8;
         public override string Habitat { get; set; } = "Pacific Waters";

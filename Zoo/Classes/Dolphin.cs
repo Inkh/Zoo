@@ -5,7 +5,7 @@ using Zoo.Interfaces;
 
 namespace Zoo.Classes
 {
-    class Dolphin : AquaticMammal, IDoTricks
+    public class Dolphin : AquaticMammal, IDoTricks
     {
         public override bool HasGill { get; set; } = false;
         public override string SizeOfBaby { get; set; } = "4 ft and 35 lbs";
